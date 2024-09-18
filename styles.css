@@ -1,0 +1,8 @@
+#text-container p {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.highlight {
+    background-color: yellow;
+}
